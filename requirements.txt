@@ -1,0 +1,3 @@
+super-gradients==3.7.1
+roboflow==1.1.26
+torch==2.2.1+cu118
